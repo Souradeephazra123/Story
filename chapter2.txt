@@ -1,2 +1,2 @@
-Now the human computer is available to man.
-This is a human computer
+This is a human computer.
+I apologize for the confusion. git log --follow <file> is used to view the commit history of a specific file, including commits that were made on different branches. However, --follow option requires a file name as an argument and it will follow the renames.
